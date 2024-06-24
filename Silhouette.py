@@ -22,7 +22,8 @@ if passw == "635241zQ":
     print(Fore.BLUE + "[2] Копирование Сайта для создания IPLogger ссылки")
     print(Fore.BLUE + "[3] открыть IpLogger")
     print(Fore.YELLOW + "[4] Закрыть утилиту")
-
+    print(Fore.RED + "Официальный разработчик Smagins!!!")
+    
     run = True
 
     while run:
