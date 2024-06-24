@@ -1,6 +1,5 @@
 from colorama import Fore
 import requests
-from bs4 import BeautifulSoup
 import os
 import webbrowser
 import time
