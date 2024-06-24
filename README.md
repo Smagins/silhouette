@@ -7,3 +7,5 @@ cd silhouette
 python Silhouette.py
 
 password : https://shouette.tilda.ws/
+
+Официальный разраб:https://github.com/Smagins/silhouette
